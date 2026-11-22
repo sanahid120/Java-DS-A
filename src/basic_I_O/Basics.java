@@ -4,5 +4,8 @@ public class Basics {
     public void printData(String data) {
         System.out.println(data);
 
+
+
+
     }
 }
